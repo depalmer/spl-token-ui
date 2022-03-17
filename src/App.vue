@@ -9,7 +9,7 @@
         <div class="navbar-menu">
           <div class="navbar-start">
             <a class="navbar-item">
-              <strong>SPL TOKEN UI</strong>
+              <strong>SPLOKEN</strong>
             </a>
             <div class="navbar-item has-dropdown is-hoverable">
               <a class="navbar-link">
